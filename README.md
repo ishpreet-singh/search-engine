@@ -8,7 +8,7 @@ A Java based Web Search Engine that:
 * Rank the web pages using word frequencies 
 * Finds patterns using regular expressions
 * Converts HTML web pages to text format
-* Analyzes the frequencies of words using hash tables
+* Analyzes the word frequencies using hash tables
 
 ## Project Structure
 
